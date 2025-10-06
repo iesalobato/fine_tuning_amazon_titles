@@ -24,8 +24,7 @@ O processo utiliza a técnica de **LoRA** (Low-Rank Adaptation) para treinar efi
 
 1.  **Clone o Repositório:**
     ```bash
-    git clone [URL_DO_SEU_REPOSITORIO]
-    cd [NOME_DO_SEU_REPOSITORIO]
+    git clone https://github.com/iesalobato/fine_tuning_amazon_titles.git
     ```
 
 2.  **Abra o Notebook no Google Colab:** Faça o upload do arquivo `.ipynb` para o seu ambiente Colab e configure o ambiente de execução para usar uma GPU.
